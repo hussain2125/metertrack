@@ -1,0 +1,5 @@
+{
+  "name": "MeterTrack",
+  "description": "A shared utility tracking dashboard for two families to monitor meter readings and monthly usage.",
+  "requestFramePermissions": []
+}
